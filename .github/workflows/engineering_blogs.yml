@@ -16,7 +16,7 @@ jobs:
       - name: Ruby Setup
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.5'
+          ruby-version: '2.7'
 
       - name: Install pkgs
         run: |
@@ -31,4 +31,3 @@ jobs:
         with:
           commit_message: Commit by Github WorkFlow
           file_pattern: engineering_blogs.opml
-
