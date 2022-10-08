@@ -302,6 +302,7 @@
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
+* Razorpay https://engineering.razorpay.com/
 * REA Group https://www.rea-group.com/category/tech/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
